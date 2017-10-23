@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Display">#160563</color>
+    <color name="Display_Text">#ffffff</color>
+    <color name="Lower_panel">#070028</color>
+</resources>

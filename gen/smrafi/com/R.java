@@ -10,14 +10,59 @@ package smrafi.com;
 public final class R {
     public static final class attr {
     }
+    public static final class color {
+        public static final int Display=0x7f040000;
+        public static final int Display_Text=0x7f040001;
+        public static final int Lower_panel=0x7f040002;
+    }
     public static final class drawable {
-        public static final int ic_launcher=0x7f020000;
+        public static final int ic_history=0x7f020000;
+        public static final int ic_launcher=0x7f020001;
+    }
+    public static final class id {
+        public static final int button_0=0x7f06000a;
+        public static final int button_1=0x7f060005;
+        public static final int button_2=0x7f060009;
+        public static final int button_3=0x7f06000d;
+        public static final int button_4=0x7f060004;
+        public static final int button_5=0x7f060008;
+        public static final int button_6=0x7f06000c;
+        public static final int button_7=0x7f060003;
+        public static final int button_8=0x7f060007;
+        public static final int button_9=0x7f06000b;
+        public static final int button_add=0x7f060013;
+        public static final int button_decimal=0x7f060006;
+        public static final int button_delete=0x7f06000f;
+        public static final int button_divide=0x7f060010;
+        public static final int button_equals=0x7f06000e;
+        public static final int button_multiply=0x7f060011;
+        public static final int button_subtract=0x7f060012;
+        public static final int display_text=0x7f060002;
+        public static final int history=0x7f060000;
+        public static final int input_text=0x7f060001;
     }
     public static final class layout {
         public static final int main=0x7f030000;
     }
     public static final class string {
-        public static final int app_name=0x7f040001;
-        public static final int hello=0x7f040000;
+        public static final int app_name=0x7f050000;
+        public static final int clear=0x7f050012;
+        public static final int decimal=0x7f050011;
+        public static final int division=0x7f050010;
+        public static final int editText=0x7f050001;
+        public static final int eight=0x7f050009;
+        public static final int equal=0x7f05000f;
+        public static final int five=0x7f050006;
+        public static final int four=0x7f050005;
+        public static final int minus=0x7f05000d;
+        public static final int multi=0x7f05000e;
+        public static final int nine=0x7f05000a;
+        public static final int one=0x7f050002;
+        public static final int plus=0x7f05000c;
+        public static final int seven=0x7f050008;
+        public static final int six=0x7f050007;
+        public static final int three=0x7f050004;
+        public static final int two=0x7f050003;
+        public static final int zero=0x7f05000b;
     }
 }
